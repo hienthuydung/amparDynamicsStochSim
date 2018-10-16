@@ -2,7 +2,7 @@
 
 Stochastic simulation of AMPA receptor dynamics with the Gillespie algorithm
 
-The following explains what figures of the paper "Stochastische Simulation von AMPA-Rezeptor-Dynamiken mithilfe des Gillespie-Algorithmus" by Anh Duong Vo were made with what program. The code was written by Anh Duong Vo.
+The following explains what figures of the bachelor thesis "Stochastische Simulation von AMPA-Rezeptor-Dynamiken mithilfe des Gillespie-Algorithmus" by Anh Duong Vo were made with what program.
 
 Fig. 3.5(a), Fig. 3.6(a), Fig. 3.7(a): sanityCheckShortTermApprox.py
 
